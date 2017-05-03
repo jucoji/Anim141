@@ -1,0 +1,4 @@
+???: Hello I am the sage of this village
+Sage: You seek eternal life.
+Sage: So cool.
+Sage: Place an object on the switch to open the gate to the cave.

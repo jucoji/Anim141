@@ -1,0 +1,19 @@
+Press "Enter" to progress the text box.
+Press the left and right arrow keys to walk.
+Hold Shift to run while moving.
+Press spacebar to jump once, and again to double jump. 
+You can't jump while on a ladder.
+Press the up and down arrow keys to climb.
+Collect coins to increase your score.
+Running while jumping increases makes you go farther.
+Find an object to place on the switch in order to open the barrier.
+Try those barrels upstairs.
+Find the switch to open the barrier.
+Move against objects to push them.
+Hold Ctrl near objects to pull them towards your direction.
+Avoid contact with the mice to avoid damage towards your health.
+Stomp the mice! Earn points!
+Jump over the spikes to avoid death.
+Collect hearts to recover health.
+Press the up arrow key to use door.
+
