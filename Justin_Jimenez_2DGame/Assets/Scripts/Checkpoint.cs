@@ -5,6 +5,9 @@ public class Checkpoint : MonoBehaviour {
 
 	public LevelManager levelManager;
 
+	public GameObject respawnParticle;
+
+
 
 	// Use this for initialization
 	void Start () 
@@ -23,6 +26,7 @@ public class Checkpoint : MonoBehaviour {
 		if (other.name == "Player") 
 		{
 			levelManager.currentCheckpoint = gameObject;
+			Instantiate (respawnParticle, transform.position, transform.rotation);
 			Debug.Log ("Activated Checkpoint " + transform.position);
 		}
 	}

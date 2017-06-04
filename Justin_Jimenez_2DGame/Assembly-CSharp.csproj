@@ -56,6 +56,8 @@
      <Compile Include="Assets\Scripts\EnemyHealthManager.cs" />
      <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
      <Compile Include="Assets\Scripts\EnemyStarController.cs" />
+     <Compile Include="Assets\Scripts\FallFromCeiling.cs" />
+     <Compile Include="Assets\Scripts\FallingPlatform.cs" />
      <Compile Include="Assets\Scripts\FlyerEnemyMove.cs" />
      <Compile Include="Assets\Scripts\FollowTarget.cs" />
      <Compile Include="Assets\Scripts\Grabber.cs" />
@@ -81,6 +83,7 @@
      <None Include="Assets\Text\Level2.txt" />
      <None Include="Assets\Text\sage.txt" />
      <None Include="Assets\Text\tutorial.txt" />
+     <None Include="Assets\Text\Level3.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -101,6 +101,7 @@
     <Compile Include="Assets\Scripts\TextBoxManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Text\Level2.txt" />
     <None Include="Assets\Text\sage.txt" />
     <None Include="Assets\Text\tutorial.txt" />
   </ItemGroup>

@@ -185,6 +185,8 @@ public class PlayerController : MonoBehaviour {
 			onPlatform = true;
 		}
 
+
+
 	
 	}
 	void OnCollisionExit2D(Collision2D other)

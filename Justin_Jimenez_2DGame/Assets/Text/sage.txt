@@ -2,3 +2,4 @@
 Sage: You seek eternal life.
 Sage: So cool.
 Sage: Place an object on the switch to open the gate to the cave.
+Sage: Try placing the barrel on top of the switch.

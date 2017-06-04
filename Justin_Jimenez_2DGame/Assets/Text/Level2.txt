@@ -1,2 +1,6 @@
+*Warning* Pressing the "Up" Arrow key in front of this door will take you back to the previous level. 
+Press "Enter" to continue.
 Press the "Ctrl" Key to attack with your cane.
 Press the "Alt" Key freeze enemies with snowball.
+You will revive at the most recent checkpoint you come in contact with.
+Press Up and Down arrow keys to climb trees.
