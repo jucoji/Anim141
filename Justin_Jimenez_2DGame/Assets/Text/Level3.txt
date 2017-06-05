@@ -1,2 +1,4 @@
 Beware of falling stalagtites!
-Platforms
+Some platforms will fall on contact!
+Find an object to put on the switch open the barrier.
+Find to switch and place and object on it to open the barrier.

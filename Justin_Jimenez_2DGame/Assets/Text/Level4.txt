@@ -1,0 +1,4 @@
+Beware of falling rocks on the mountain!
+Sage: Hello again.
+Sage: Congratulations! Looks like you have made it up the mountain.
+
