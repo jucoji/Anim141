@@ -77,8 +77,11 @@
     <Compile Include="Assets\Scripts\EnemyHealthManager.cs" />
     <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\EnemyStarController.cs" />
+    <Compile Include="Assets\Scripts\FallFromCeiling.cs" />
+    <Compile Include="Assets\Scripts\FallingPlatform.cs" />
     <Compile Include="Assets\Scripts\FlyerEnemyMove.cs" />
     <Compile Include="Assets\Scripts\FollowTarget.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Grabber.cs" />
     <Compile Include="Assets\Scripts\HealthManager.cs" />
     <Compile Include="Assets\Scripts\HealthPickup.cs" />
@@ -94,6 +97,7 @@
     <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\PlayerPull.cs" />
+    <Compile Include="Assets\Scripts\Roller.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\ShootAtPlayerInRange.cs" />
     <Compile Include="Assets\Scripts\SnowballController.cs" />
@@ -102,6 +106,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Text\Level2.txt" />
+    <None Include="Assets\Text\Level3.txt" />
+    <None Include="Assets\Text\Level4.txt" />
     <None Include="Assets\Text\sage.txt" />
     <None Include="Assets\Text\tutorial.txt" />
   </ItemGroup>

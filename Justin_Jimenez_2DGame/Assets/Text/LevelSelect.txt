@@ -1,0 +1,5 @@
+Press up on a door to select a level.
+Press up to enter Level 1
+Press up to enter Level 2
+Press up to enter Level 3
+Press up to enter Level 4

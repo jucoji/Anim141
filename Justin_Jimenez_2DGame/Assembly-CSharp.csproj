@@ -85,6 +85,7 @@
      <None Include="Assets\Text\Level4.txt" />
      <None Include="Assets\Text\Level2.txt" />
      <None Include="Assets\Text\sage.txt" />
+     <None Include="Assets\Text\LevelSelect.txt" />
      <None Include="Assets\Text\tutorial.txt" />
      <None Include="Assets\Text\Level3.txt" />
  <Reference Include="UnityEngine.UI">
